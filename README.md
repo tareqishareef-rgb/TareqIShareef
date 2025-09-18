@@ -1,5 +1,14 @@
 # 👋 Hi, I'm Tareq  
 **Generative AI Engineer | Data Engineer | MLOps**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗-HuggingFace-yellow)
+![LangChain](https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-Tracking-orange)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+
 
 I design and build **scalable Generative AI solutions** — from fine-tuning LLMs and RAG systems to deploying production-grade services with modern MLOps. With 12+ years across engineering, data science, and large-scale projects, I bridge **data infrastructure** and **intelligent applications**.
 
@@ -35,6 +44,9 @@ I design and build **scalable Generative AI solutions** — from fine-tuning LLM
 - Always tinkering with AI-powered creativity
 
 ---
+![Tareq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TareqShareef&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TareqShareef&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TareqShareef&theme=radical)
 
 ## 🌐 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/tareqshareef/)
